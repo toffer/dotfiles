@@ -1,0 +1,22 @@
+[user]
+    name = Tom Offermann
+    email = tom@offermann.us
+[core]
+    editor = subl -w
+    excludesfile = /Users/tom/.gitignore_global
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+[github]
+    user = <user>
+    token = <token>
+[diff]
+    mnemonicprefix = true
+[push]
+    default = simple
